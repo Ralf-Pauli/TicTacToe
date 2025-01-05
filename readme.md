@@ -33,7 +33,7 @@ This file configures the LOVE 2D framework. It includes:
 1. Ensure you have the LOVE 2D framework installed. You can download it from [LOVE2D.org](https://love2d.org/).
 2. Clone this repository to your local machine using the following command:
    ```sh
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Ralf-Pauli/TicTacToe.git
    ```
 3. Open the cloned project directory in your preferred text editor to inspect or modify the code.
 4. Execute the game using the LOVE 2D framework by following these steps:
